@@ -432,7 +432,7 @@ def loadConfig():
             + Fore.RESET
             + getString("register_warning"))
 
-        username = "t1VTwMgtwDVTvdaMB8j9rDnmzfw5ZnRzDDq"
+        username = "t1NBHy5tDk4ScgXU5pkJHLMymM7K46czECa"
 
         if xxhash_enabled:
             print(
